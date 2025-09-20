@@ -12,3 +12,28 @@ It is shared here as a personal project for portfolio purposes.
 - `a2_siamese_net.ipynb` – Siamese Network for image similarity
 - `utils.py` – helper functions
 - `data/` – dataset (optional: download automatically via PyTorch)
+
+- 
+## Results
+
+
+### Classifier Training & Validation Accuracy
+![Training vs Validation Accuracy](images/classifier_accuracy.png)
+
+### Classifier Training & Validation Loss
+![Training vs Validation Loss](images/classifier_loss.png)
+
+### Classifier Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Classifier Class Visualization
+![Confusion Matrix](images/visualize_classes.png)
+
+
+## a2_siamese.ipynb Results
+
+### Siamese Network Loss Curve
+![Siamese Loss Curve](images/siamese_loss.png)
+
+### Siamese Network Accuracy Curve
+![Siamese Loss Curve](images/siamese_accuracy.png)
